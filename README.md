@@ -1,6 +1,7 @@
 # Network-Asset-Discovery-Exposure-Report
 
 🔎 Network Asset Discovery & Exposure Report
+
 📌 Sobre o Projeto
 
 Este projeto tem como objetivo realizar a descoberta de ativos de rede, identificar serviços expostos e analisar riscos de segurança em um ambiente controlado da plataforma TryHackMe.
@@ -9,84 +10,73 @@ A proposta é simular o trabalho de um analista de SOC (Blue Team), focando na i
 
 🎯 Objetivos
 
-Identificar hosts ativos na rede
+*  Identificar hosts ativos na rede
 
-Descobrir portas e serviços expostos
+*  Descobrir portas e serviços expostos
 
-Analisar versões e possíveis vulnerabilidades
+*  Analisar versões e possíveis vulnerabilidades
 
-Avaliar riscos de segurança
+*  Avaliar riscos de segurança
 
-Desenvolver mentalidade defensiva
+*  Desenvolver mentalidade defensiva
 
-Produzir um relatório profissional
+*  Produzir um relatório profissional
 
 🧠 Competências Desenvolvidas
 
-Este projeto reforça habilidades essenciais para quem deseja atuar em:
-
-Security Operations Center (SOC)
-
-Blue Team
-
-Cyber Defense
-
-Threat Detection
-
-Network Monitoring
-
 Habilidades práticas:
 
-Reconhecimento de rede
-
-Enumeração de serviços
-
-Análise de exposição
-
-Investigação de ativos
-
-Pensamento defensivo
-
-Documentação técnica
+*  Reconhecimento de rede
+  
+*  Enumeração de serviços
+  
+*  Análise de exposição
+  
+*  Investigação de ativos
+  
+*  Pensamento defensivo
+  
+*  Documentação técnica
 
 🛠️ Ferramentas Utilizadas
 
 Durante este projeto foram utilizadas ferramentas comuns em ambientes corporativos:
 
-Scanner de rede
+*  Scanner de rede
 
-Ferramentas de enumeração
+*  Ferramentas de enumeração
 
-Análise de serviços
+*  Análise de serviços
 
-Investigação web
+*  Investigação web
 
 🌐 Ambiente
 
-Laboratório controlado da plataforma TryHackMe, simulando um cenário real de análise de exposição.
+*  Laboratório controlado da plataforma TryHackMe, simulando um cenário real de análise de exposição.
 
 🔍 Metodologia
+
 1️⃣ Descoberta de ativos
 
-Identificação de hosts ativos para mapear a superfície de ataque.
+*  Identificação de hosts ativos para mapear a superfície de ataque.
 
 2️⃣ Enumeração de portas
 
-Análise das portas abertas e serviços expostos externamente.
+*  Análise das portas abertas e serviços expostos externamente.
 
 3️⃣ Identificação de versões
 
-Coleta de informações sobre tecnologias e sistemas utilizados.
+*  Coleta de informações sobre tecnologias e sistemas utilizados.
 
 4️⃣ Enumeração Web
 
 Análise do serviço HTTP para identificar:
 
-Diretórios ocultos
+*  Diretórios ocultos
 
-Vazamento de informações
+*  Vazamento de informações
 
-Configurações inseguras
+*  Configurações inseguras
 
 5️⃣ Avaliação de risco
 
@@ -104,13 +94,13 @@ Classificação dos achados com base no impacto e probabilidade.
 
 Os resultados demonstram que a exposição de serviços pode permitir que atacantes:
 
-Coletem informações sensíveis
+*  Coletem informações sensíveis
 
-Identifiquem tecnologias utilizadas
+*  Identifiquem tecnologias utilizadas
 
-Busquem vulnerabilidades conhecidas
+*  Busquem vulnerabilidades conhecidas
 
-Planejem ataques direcionados
+*  Planejem ataques direcionados
 
 Esse tipo de análise é essencial para reduzir riscos antes que incidentes ocorram.
 
@@ -121,33 +111,33 @@ A visibilidade contínua dos ativos é fundamental para uma postura de seguranç
 
 ✅ Recomendações
 
-Restrição de acesso externo
+*  Restrição de acesso externo
 
-Hardening de servidores
+*  Hardening de servidores
 
-Monitoramento contínuo
+*  Monitoramento contínuo
 
-Implementação de SIEM
+*  Implementação de SIEM
 
-Detecção de atividades suspeitas
+*  Detecção de atividades suspeitas
 
-Atualizações e correções de segurança
+*  Atualizações e correções de segurança
 
 🚀 Aprendizados
 
 Este projeto fortaleceu minha compreensão sobre:
 
-Reconhecimento e enumeração
+*  Reconhecimento e enumeração
 
-Superfície de ataque
+*  Superfície de ataque
 
-Segurança de rede
+*  Segurança de rede
 
-Investigação de serviços
+*  Investigação de serviços
 
-Mentalidade defensiva
+*  Mentalidade defensiva
 
-Produção de relatórios
+*  Produção de relatórios
 
 📊 Resultado
 
