@@ -38,7 +38,7 @@ Habilidades práticas:
   
 *  Documentação técnica
 
-🛠️ Ferramentas Utilizadas
+;🛠️ Ferramentas Utilizadas
 
 Durante este projeto foram utilizadas ferramentas comuns em ambientes corporativos:
 
@@ -59,24 +59,39 @@ Durante este projeto foram utilizadas ferramentas comuns em ambientes corporativ
 1️⃣ Descoberta de ativos
 
 *  Identificação de hosts ativos para mapear a superfície de ataque.
+![Host Discovery](evidences/01-host-discovery.png)
+
 
 2️⃣ Enumeração de portas
 
 *  Análise das portas abertas e serviços expostos externamente.
+![Port Scan](evidences/02-port-scan-and-os.png)
+  
 
 3️⃣ Identificação de versões
 
 *  Coleta de informações sobre tecnologias e sistemas utilizados.
+![OS VERSION](evidences/03-service-enumeration.png)
 
 4️⃣ Enumeração Web
 
 Análise do serviço HTTP para identificar:
 
 *  Diretórios ocultos
+![Dir hidden](evidences/4-web-analysis5.png)
+
+*  Tentativa de achar APIs, Login, Admin:
+![Search Api](evidences/4-web-analysis4.png)
+
+*  Login:
+![Search login](evidences/04-web-analysis3.png)
 
 *  Vazamento de informações
+![Search login](evidences/04-web-analysis02.png)
 
 *  Configurações inseguras
+
+
 
 5️⃣ Avaliação de risco
 
