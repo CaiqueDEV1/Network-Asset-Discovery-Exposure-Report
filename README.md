@@ -1,4 +1,4 @@
-# Network-Asset-Discovery-Exposure-Report
+# vulnerability-assessment-lab
 
 Sobre o Projeto
 
